@@ -1,12 +1,12 @@
 {
-  "name": "afkbot",
+  "name": "nonamebot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "MannuG",
+  "author": "MyT",
   "license": "ISC",
   "dependencies": {
     "config": "^3.3.3",

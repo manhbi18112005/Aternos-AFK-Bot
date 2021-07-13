@@ -1,9 +1,6 @@
 {
 	"ip": "manhbi18112005.aternos.me",
 	"name": "NoNameBot",
-	"port": 47356,
-	"autonightskip": true,
-	"pi": 3.14159,
-	"moveinterval": 2,
-	"maxrandom": 5
+	"port": 25565,
+	"auto-night-skip":"false"
 }
