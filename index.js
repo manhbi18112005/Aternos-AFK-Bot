@@ -20,7 +20,9 @@ function getRandomArbitrary(min, max) {
 var bot = mineflayer.createBot({
   host: data.ip,
   username: data.username,
-  port: data.port
+  port: data.port,
+  version: "1.17.1"
+  
 });
 
 //bot.loadPlugin(c)
