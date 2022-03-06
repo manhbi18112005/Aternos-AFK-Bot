@@ -74,5 +74,5 @@ bot.on('death',function() {
 });
 
 // Log errors and kick reasons:
-bot.on('kicked', console.log)
-bot.on('error', console.log)
+bot.on('kicked', console.log());
+bot.on('error', console.log());
