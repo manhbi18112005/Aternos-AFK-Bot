@@ -1,7 +1,8 @@
 {
-	"ip": "manhbi18112005.aternos.me",
+	"ip": "YOUR_SERVER_IP",
+	"port": "YOUR_SERVER_PORT",
+	"version": "YOUR_SERVER_VERSION",
 	"username": "NoNameBot",
-	"port": 47356,
 	"autonightskip": false,
 	"pi": 3.14159,
 	"moveinterval": 2,

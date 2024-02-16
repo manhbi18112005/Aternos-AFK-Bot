@@ -1,11 +1,11 @@
-### afkserviceforaternos
+### AFK SERVICE BOT
 This is a self-running inactive bot for 24/7 Minecraft server hosted by Aternos.
 
 # GUIDE
 
-To run this service, update the server information in file `config.json`.
+To run the bot, you MUST update your Minecraft server's information in file `config.json`.
 
-Then, open your IDE with this folder, open the **Terminal**, type **`npm install`** (make sure you installed NodeJS). The step above will install all the dependencies for the bot.
+Then, on a terminal with this folder, type **`npm install`** (make sure you installed NodeJS). The step above will install all the dependencies for the bot.
 
 Finally, type **`node index.js`** to execute.
 
